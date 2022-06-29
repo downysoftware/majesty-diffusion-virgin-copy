@@ -2,6 +2,9 @@
 ### Generate images from text with majesty
 #### Formerly known as Princess Generator
 #### Create Sacred AI Art!
+
+<img src="https://i.imgur.com/ACGMXHc.jpg"></img>
+
 Majesty Diffusion are implementations of text-to-image diffusion models with a royal touch 👸
 
 Access our [Majestic Guide](https://multimodal.art/majesty-diffusion) (_under construction_), join our community on [Discord](https://discord.gg/yNBtQBEDfZ) or reach out via [@multimodalart on Twitter](https://twitter.com/multimodalart)). Also [share your settings with us](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)
@@ -26,7 +29,7 @@ Current implementations:
   </summmary>
 <details>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
 
 A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](https://github.com/multimodalart) Colab notebook implementing [CompVis](https://github.com/CompVis)' Latent Diffusion. [Contribute to our settings library on Hugging Face!](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)
 <details>
