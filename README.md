@@ -30,14 +30,13 @@ A Colab notebook implementing changes specific to the creation of Sacred AI Art 
   - Downy added optional memory footprint and Graph GPU cells, quadruplicated Basic Settings with three additional configs by default, and added cell to send SMS on completion
   - CLIP+Latent Parental Test implemented, init image toggle for cut schedule, init image and config skip options for 2nd and later cells, partial or full CLIP prompts dropdown, Deka-Batch Run Cells.
 
-<details open>
 ## Latent Majesty Diffusion v1.6
 ##### Formerly known as Latent Princess Generator
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
 
 A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](https://github.com/multimodalart) Colab notebook implementing [CompVis](https://github.com/CompVis)' Latent Diffusion. [Contribute to our settings library on Hugging Face!](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)
-  
-<details open>
+
+<details>
   <summary>v1.2</summary>
   
   - Added [Dango233](https://github.com/Dango233) CLIP Guidance
