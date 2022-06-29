@@ -48,7 +48,7 @@ A Colab notebook implementing changes specifically for the creation of Sacred AI
   - [Downy](https://www.twitter.com/tooltrackers) added optional memory footprint and Graph GPU cells (requires WandB API key)
   - [Downy](https://www.twitter.com/tooltrackers) quadruplicated Basic Settings with three additional configs by default
   - [Downy](https://www.twitter.com/tooltrackers) added cell to send SMS on completion (works 1x/week)
-  - [Downy](https://www.twitter.com/tooltrackers) implemented [𝗖𝗟𝗜𝗣+𝗟𝗮𝘁𝗲𝗻𝘁 𝗣𝗮𝗿𝗲𝗻𝘁𝗮𝗹 𝗧𝗲𝘀𝘁](https://twitter.com/ToolTrackers/status/1541671795773919233)
+  - [Downy](https://www.twitter.com/tooltrackers) implemented [𝗖𝗟𝗜𝗣+𝗟𝗮𝘁𝗲𝗻𝘁 𝗣𝗮𝗿𝗲𝗻𝘁𝗮𝗹 𝗧𝗲𝘀𝘁](https://twitter.com/ToolTrackers/status/1541651929167810565)
   - [Downy](https://www.twitter.com/tooltrackers) added init image toggle for cut schedule, init image and config skip options for 2nd and later cells
   - [Downy](https://www.twitter.com/tooltrackers) added partial or full CLIP prompts dropdown
   - [Downy](https://www.twitter.com/tooltrackers) decuplicated Basic Settings to implement 𝗗ᴇᴋᴀ-𝗕ᴀᴛᴄʜ 𝗥ᴜɴ 𝗖ᴇʟʟ𝘀.
