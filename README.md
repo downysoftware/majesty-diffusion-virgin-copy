@@ -21,24 +21,25 @@ Current implementations:
 - [Latent Majesty Diffusion](#latent-majesty-diffusion-v16)
 - [V-Majesty Diffusion](#v-majesty-diffusion-v12)
 
-<details>
 ## Latent Majesty Diffusion Custom Virgin Edition
 ##### Formerly known as Latent Majesty Diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
 
 A Colab notebook implementing changes specific to the creation of Sacred AI Art within Unicult.
 
+<details open>
   <summary>Custom Virgin Edition</summary>
   - Downy added optional memory footprint and Graph GPU cells, quadruplicated Basic Settings with three additional configs by default, and added cell to send SMS on completion
   - CLIP+Latent Parental Test implemented, init image toggle for cut schedule, init image and config skip options for 2nd and later cells, partial or full CLIP prompts dropdown, Deka-Batch Run Cells.
   </summmary>
-<details>
-
+</details>
+<details open>
 ## Latent Majesty Diffusion v1.6
 ##### Formerly known as Latent Princess Generator
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
 
 A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](https://github.com/multimodalart) Colab notebook implementing [CompVis](https://github.com/CompVis)' Latent Diffusion. [Contribute to our settings library on Hugging Face!](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)
+  
 <details open>
   <summary>v1.2</summary>
   
@@ -56,10 +57,12 @@ A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](http
   - Added [Dango233](https://github.com/Dango233) inpainting mode
   - Added [apolinario (@multimodalart)](https://github.com/multimodalart) savable settings and setting library (including `colab-free-default`, `dango233-princesses`, `the-other-zippy` and `makaitrad` shared settings. Share yours with us too with a pull request!
 </details>
+  
 <details>
   <summary>v1.3</summary>
   - Better Upscaler (learn how to use it on our [Majestic Guide](https://multimodal.art/majesty-diffusion))
 </details>
+  
 <details open>
 <summary>v1.4 & 1.5 & 1.6</summary>
   
