@@ -118,14 +118,8 @@ A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](http
 
 ## TODO
 ### Please feel free to help us in any of these tasks!
-  - [x] Figure out better defaults and add more settings to the settings library (contribute with a PR!)
-  - [ ] Add all notebooks to a single pipeline where on model can be the output of the other (similar to [Centipede Diffusion](https://github.com/Zalring/Centipede_Diffusion))
-  - [ ] Add all notebooks to the [MindsEye UI](multimodal.art/mindseye)
-  - [ ] Modularise everything
-  - [ ] Create a command line version
-  - [ ] Add an inpainting UI
-  - [x] Improve performance, both in speed and VRAM consumption
-  - [ ] More technical issues will be listed on [https://github.com/multimodalart/majesty-diffusion/issues](issues)
+  - [x] Create readme.md on Github!
+  - [ ] Fix the bug that has broken all Majesty notebooks (or wait)
 
 ## Acknowledgments
 Some functions and methods are from various code masters - including but not limited to [advadnoun](https://twitter.com/advadnoun), [crowsonkb](https://github.com/crowsonkb), [nshepperd](https://github.com/nshepperd), [russelldc](https://github.com/russelldc), [Dango233](https://github.com/Dango233) and many others
