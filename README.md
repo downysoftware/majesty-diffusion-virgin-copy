@@ -1,6 +1,7 @@
-# Majesty Diffusion 👑
+# Majesty Diffusion Custom Virgin Edition 👑
 ### Generate images from text with majesty
 #### Formerly known as Princess Generator
+#### Create Sacred AI Art!
 Majesty Diffusion are implementations of text-to-image diffusion models with a royal touch 👸
 
 Access our [Majestic Guide](https://multimodal.art/majesty-diffusion) (_under construction_), join our community on [Discord](https://discord.gg/yNBtQBEDfZ) or reach out via [@multimodalart on Twitter](https://twitter.com/multimodalart)). Also [share your settings with us](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)
@@ -11,16 +12,27 @@ Access our [Majestic Guide](https://multimodal.art/majesty-diffusion) (_under co
 Current implementations:
 - [Latent Majesty Diffusion](#latent-majesty-diffusion-v16)
 - [V-Majesty Diffusion](#v-majesty-diffusion-v12)
+- Custom Virgin Edition (personal copy)
+- Custom Virgin Edition (Unicult copy)
 
-
-## Latent Majesty Diffusion v1.6
+# Latent Majesty Diffusion Custom Virgin Edition
+## Formerly Known as Latent Majesty Diffusion v1.6
 ##### Formerly known as Latent Princess Generator
+
+<details>
+  <summary>Custom Virgin Edition</summary>
+- Downy added optional memory footprint and Graph GPU cells, quadruplicated Basic Settings with three additional configs by default, and added cell to send SMS on completion
+- CLIP+Latent Parental Test implemented, init image toggle for cut schedule, init image and config skip option for 2nd and later cells, partial or full CLIP prompts dropdown, Deca Batch Process Run Cells.
+  </summmary>
+<details>
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
 
 A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](https://github.com/multimodalart) Colab notebook implementing [CompVis](https://github.com/CompVis)' Latent Diffusion. [Contribute to our settings library on Hugging Face!](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)
 <details>
   <summary>v1.2</summary>
-  
+- Downy added optional memory footprint and Graph GPU cells, quadruplicated Basic Settings with three additional configs by default, and added cell to send SMS on completion
+- CLIP+Latent Parental Test implemented, init image toggle for cut schedule, init image and config skip option for 2nd and later cells, partial or full CLIP prompts dropdown, Deca Batch Process Run Cells.
   - Added [Dango233](https://github.com/Dango233) CLIP Guidance
   - Added [Dango233](https://github.com/Dango233) magical **new** step and upscaling scheduling
   - Added [Dango233](https://github.com/Dango233) cuts, augs and attributes scheduling
