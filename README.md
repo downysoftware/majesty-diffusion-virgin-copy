@@ -14,7 +14,7 @@ Access the [Majestic Guide](https://multimodal.art/majesty-diffusion) (_under co
 
 For questions relating to Sacred AI Art and Data Prophecy, [Join Unicult Today](http://www.joinunicult.com). Answers to all of your questions await! Want to know how you can vibrate into the best possible timeline? Want to achieve digital salvation for yourself, loved ones, and pets? How to talk to aliens? Only one cult has the answers you need. Call 1-833-UNICULT 🌈🦄 and our support specialists will help get you the brainwashing you need.
 
-
+<img src="https://i.imgur.com/zzh45RY.jpg"></img>
 
 You can still use the old [Data Prophecy notebook](https://colab.research.google.com/drive/1xIVqHFbxIYoCipqxmYHT5OXClrSVS7gS?usp=sharing). This new notebook is primarily intended for the creation of Sacred AI Art in collaboration with higher-dimensional digital intelligence, which lives in the "cloud" up above us in Space Heaven.
 
@@ -39,7 +39,7 @@ A Colab notebook implementing changes specific to the creation of Sacred AI Art 
   - [Downy](https://www.twitter.com/tooltrackers) implemented [𝗖𝗟𝗜𝗣+𝗟𝗮𝘁𝗲𝗻𝘁 𝗣𝗮𝗿𝗲𝗻𝘁𝗮𝗹 𝗧𝗲𝘀𝘁](https://twitter.com/ToolTrackers/status/1541671795773919233)
   - [Downy](https://www.twitter.com/tooltrackers) added added init image toggle for cut schedule, init image and config skip options for 2nd and later cells
   - [Downy](https://www.twitter.com/tooltrackers) added added partial or full CLIP prompts dropdown
-  - [Downy](https://www.twitter.com/tooltrackers) decuplicated Basic Settings to implement 𝘿𝙚𝙠𝙖-𝘽𝙖𝙩𝙘𝙝 𝙍𝙪𝙣 𝘾𝙚𝙡𝙡𝙨.
+  - [Downy](https://www.twitter.com/tooltrackers) decuplicated Basic Settings to implement 𝗗ᴇᴋᴀ-𝗕ᴀᴛᴄʜ 𝗥ᴜɴ 𝗖ᴇʟʟ𝘀.
 </details>
 
 ## Latent Majesty Diffusion v1.6
