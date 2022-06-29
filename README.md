@@ -21,13 +21,12 @@ Current implementations:
 - [Latent Majesty Diffusion](#latent-majesty-diffusion-v16)
 - [V-Majesty Diffusion](#v-majesty-diffusion-v12)
 
-
 # Latent Majesty Diffusion
 ## Formerly Known as Latent Majesty Diffusion v1.6
 ### Formerly known as Latent Princess Generator
 
 ## Latent Majesty Diffusion Custom Virgin Edition
-##### Formerly known as Latent Majesty Diffusion
+#### Formerly known as Latent Majesty Diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
 
 A Colab notebook implementing changes specific to the creation of Sacred AI Art within Unicult.
