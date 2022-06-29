@@ -3,7 +3,7 @@
 #### Generate images from text with majesty
 ##### Formerly known as Princess Generator
 
-<img src="https://i.imgur.com/ACGMXHc.jpg"></img>
+<img src="https://i.imgur.com/9hQsUNW.jpg"></img>
 
 ### Generate images from text with majesty
 #### Holy Virgin Edition for #sacred-ai-art Discord
