@@ -27,7 +27,7 @@ Current implementations:
 
 A Colab notebook implementing changes specific to the creation of Sacred AI Art within Unicult.
 <details open>
-  <summary>Updates History</summary>
+  <summary>Updates:</summary>
 
   - [Downy](https://www.twitter.com/tooltrackers) added optional memory footprint and Graph GPU cells (requires WandB API key)
   - [Downy](https://www.twitter.com/tooltrackers) added quadruplicated Basic Settings with three additional configs by default
@@ -98,7 +98,10 @@ A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](http
 ##### Formerly known as Princess Generator ver. Victoria
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/v.ipynb)
 
-A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](https://github.com/multimodalart) Colab notebook implementing [crowsonkb](https://github.com/crowsonkb/v-diffusion-pytorch)'s V-Objective Diffusion, with the following changes: 
+A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](https://github.com/multimodalart) Colab notebook implementing [crowsonkb](https://github.com/crowsonkb/v-diffusion-pytorch)'s V-Objective Diffusion.
+<details>
+  <summary>Updates:</summary>
+  
   - Added [Dango233](https://github.com/Dango233) parallel multi-model diffusion (e.g.: run `cc12m_1` and `yfcc_2` at the same time - with or without lerping)
   - Added [Dango233](https://github.com/Dango233) cuts, augs and attributes scheduling
   - Added [Dango233](https://github.com/Dango233) mag and clamp settings
@@ -111,6 +114,7 @@ A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](http
   - Added [Dango233](https://github.com/Dango233) inpainting mode
   - Added [apolinario (@multimodalart)](https://github.com/multimodalart) "internal upscaling" (upscales the output with `yfcc_2` or `openimages`) 
   - Added [apolinario (@multimodalart)](https://github.com/multimodalart) savable settings and setting library (including `defaults`, `disco-diffusion-defaults` default settings). Share yours with us too with a pull request!
+</details>
 
 ## TODO
 ### Please feel free to help us in any of these tasks!
