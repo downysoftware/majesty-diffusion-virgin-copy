@@ -1,7 +1,7 @@
 # Majesty Diffusion 👑
 ### Generate images from text with majesty
-### Unicult Sacred AI Art Creator 🙏
 ### Formerly known as Princess Generator
+### Unicult Sacred AI Art Creator 🙏
 
 <img src="https://i.imgur.com/ACGMXHc.jpg"></img>
 
