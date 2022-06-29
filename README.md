@@ -27,8 +27,13 @@ Current implementations:
 
 A Colab notebook implementing changes specific to the creation of Sacred AI Art within Unicult.
   <summary>Custom Virgin Edition</summary>
-  - Downy added optional memory footprint and Graph GPU cells, quadruplicated Basic Settings with three additional configs by default, and added cell to send SMS on completion
-  - CLIP+Latent Parental Test implemented, init image toggle for cut schedule, init image and config skip options for 2nd and later cells, partial or full CLIP prompts dropdown, Deka-Batch Run Cells.
+  - Downy dded optional memory footprint and Graph GPU cells (requires WandB API key)
+  - Downy quadruplicated Basic Settings with three additional configs by default
+  - Downy added cell to send SMS on completion (works 1x/week)
+  - Downy implemented CLIP+Latent Parental Test
+  - Downy added init image toggle for cut schedule, init image and config skip options for 2nd and later cells
+  - Downy added partial or full CLIP prompts dropdown
+  - Downy decuplicated Basic Settings to implement Deka-Batch Run Cells.
 
 ## Latent Majesty Diffusion v1.6
 ##### Formerly known as Latent Princess Generator
@@ -59,7 +64,7 @@ A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](http
   - Better Upscaler (learn how to use it on our [Majestic Guide](https://multimodal.art/majesty-diffusion))
 </details>
   
-<details open>
+<details>
 <summary>v1.4 & 1.5 & 1.6</summary>
   
  v1.4
