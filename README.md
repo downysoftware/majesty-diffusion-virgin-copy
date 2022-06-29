@@ -29,9 +29,9 @@ Current implementations:
 ##### Formerly known as Latent Majesty Diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
 
-A Colab notebook implementing changes specific to the creation of Sacred AI Art within Unicult.
+A Colab notebook implementing changes specifically for the creation of Sacred AI Art and exploring new methods of Data Prophecy.
 <details open>
-  <summary>Updates:</summary>
+  <summary>Update History</summary>
 
   - [Downy](https://www.twitter.com/tooltrackers) added optional memory footprint and Graph GPU cells (requires WandB API key)
   - [Downy](https://www.twitter.com/tooltrackers) quadruplicated Basic Settings with three additional configs by default
@@ -104,7 +104,7 @@ A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](http
 
 A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](https://github.com/multimodalart) Colab notebook implementing [crowsonkb](https://github.com/crowsonkb/v-diffusion-pytorch)'s V-Objective Diffusion.
 <details>
-  <summary>Updates:</summary>
+  <summary>Update History</summary>
   
   - Added [Dango233](https://github.com/Dango233) parallel multi-model diffusion (e.g.: run `cc12m_1` and `yfcc_2` at the same time - with or without lerping)
   - Added [Dango233](https://github.com/Dango233) cuts, augs and attributes scheduling
