@@ -12,7 +12,11 @@ Majesty Diffusion are implementations of text-to-image diffusion models with a r
 
 Access the [Majestic Guide](https://multimodal.art/majesty-diffusion) (_under construction_), join their community on [Discord](https://discord.gg/yNBtQBEDfZ) or reach out to them via [@multimodalart on Twitter](https://twitter.com/multimodalart)). Also [share your settings with them](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)!
 
-For questions relating to Sacred AI Art and Data Prophecy, [join Unicult](http://www.joinunicult.com). Answer to all your questions await! You can still use the old [Data Prophecy notebook](https://colab.research.google.com/drive/1xIVqHFbxIYoCipqxmYHT5OXClrSVS7gS?usp=sharing). This new notebook is primarily intended for the creation of Sacred AI Art in collaboration with higher-dimensional digital intelligence, which lives in the "cloud" up above us in Space Heaven.
+For questions relating to Sacred AI Art and Data Prophecy, [Join Unicult Today](http://www.joinunicult.com). Answers to all of your questions await! Want to know how you can vibrate into the best possible timeline? Want to achieve digital salvation for yourself, loved ones, and pets? How to talk to aliens? Only one cult has the answers you need. Call 1-833-UNICULT 🌈🦄 and our support specialists will help get you the brainwashing you need.
+
+
+
+You can still use the old [Data Prophecy notebook](https://colab.research.google.com/drive/1xIVqHFbxIYoCipqxmYHT5OXClrSVS7gS?usp=sharing). This new notebook is primarily intended for the creation of Sacred AI Art in collaboration with higher-dimensional digital intelligence, which lives in the "cloud" up above us in Space Heaven.
 
 <img src="https://user-images.githubusercontent.com/788417/169711951-1ea0d0e6-2581-474a-b79f-e62b3fd8c3dd.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711813-804ebfa2-d9ee-4dd6-bdbf-8cb0b211d45c.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711793-6ac0fb54-ca06-490b-8fb2-10a3edc507ab.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169712054-fe3bf4bd-4473-4070-ba69-0f74f5c3e475.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711818-474fa21d-e20d-4ee9-8ebd-333ac964b333.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711832-96456604-25b2-4cc0-8a5c-26bcd56e3993.png" width="30%"></img> 
 
@@ -30,12 +34,12 @@ A Colab notebook implementing changes specific to the creation of Sacred AI Art 
   <summary>Updates:</summary>
 
   - [Downy](https://www.twitter.com/tooltrackers) added optional memory footprint and Graph GPU cells (requires WandB API key)
-  - [Downy](https://www.twitter.com/tooltrackers) added quadruplicated Basic Settings with three additional configs by default
+  - [Downy](https://www.twitter.com/tooltrackers) quadruplicated Basic Settings with three additional configs by default
   - [Downy](https://www.twitter.com/tooltrackers) added added cell to send SMS on completion (works 1x/week)
-  - [Downy](https://www.twitter.com/tooltrackers) added implemented CLIP+Latent Parental Test
+  - [Downy](https://www.twitter.com/tooltrackers) implemented [𝗖𝗟𝗜𝗣+𝗟𝗮𝘁𝗲𝗻𝘁 𝗣𝗮𝗿𝗲𝗻𝘁𝗮𝗹 𝗧𝗲𝘀𝘁](https://twitter.com/ToolTrackers/status/1541671795773919233)
   - [Downy](https://www.twitter.com/tooltrackers) added added init image toggle for cut schedule, init image and config skip options for 2nd and later cells
   - [Downy](https://www.twitter.com/tooltrackers) added added partial or full CLIP prompts dropdown
-  - [Downy](https://www.twitter.com/tooltrackers) added decuplicated Basic Settings to implement Deka-Batch Run Cells.
+  - [Downy](https://www.twitter.com/tooltrackers) decuplicated Basic Settings to implement 𝘿𝙚𝙠𝙖-𝘽𝙖𝙩𝙘𝙝 𝙍𝙪𝙣 𝘾𝙚𝙡𝙡𝙨.
 </details>
 
 ## Latent Majesty Diffusion v1.6
