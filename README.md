@@ -1,6 +1,6 @@
 # Majesty Diffusion Custom Virgin Edition 👑 Sacred AI Art Creator 🙏
 ### Generate images from text with majesty
-### Formerly known as Princess Generator
+## Formerly known as Princess Generator
 
 <img src="https://i.imgur.com/ACGMXHc.jpg"></img>
 
