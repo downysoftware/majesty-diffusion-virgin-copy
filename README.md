@@ -1,4 +1,4 @@
-# Majesty Diffusion Custom Virgin Edition 👑
+# Majesty Diffusion Virgin Edition 👑
 ### ✨🤲🙏 Sacred AI Art Creator 🙏🤲✨
 #### Generate images from text with majesty
 ##### Formerly known as Princess Generator
@@ -26,7 +26,7 @@ Current implementations:
 - [Latent Majesty Diffusion](#latent-majesty-diffusion-v16)
 - [V-Majesty Diffusion](#v-majesty-diffusion-v12)
 
-## Latent Majesty Diffusion Custom Virgin Edition
+## Majesty Diffusion Virgin Edition
 ##### Formerly known as Latent Majesty Diffusion
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
 
