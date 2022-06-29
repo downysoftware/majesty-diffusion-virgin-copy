@@ -4,7 +4,7 @@
 
 ### Generate images from text with majesty
 #### Formerly known as Princess Generator
-#### Create Sacred AI Art!
+#### Custom Virgin Edition for Sacred AI Art!
 
 Majesty Diffusion are implementations of text-to-image diffusion models with a royal touch 👸
 
@@ -23,7 +23,7 @@ Current implementations:
 
 # Latent Majesty Diffusion Custom Virgin Edition
 ## Formerly Known as Latent Majesty Diffusion v1.6
-##### Formerly known as Latent Princess Generator
+### Formerly known as Latent Princess Generator
 
 <details>
   <summary>Custom Virgin Edition</summary>
