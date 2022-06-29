@@ -26,8 +26,8 @@ Current implementations:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
 
 A Colab notebook implementing changes specific to the creation of Sacred AI Art within Unicult.
-  <summary>Update History</summary>
-  
+  <summary>Updates History</summary>
+<details open>  
   - [Downy](https://www.twitter.com/tooltrackers) added optional memory footprint and Graph GPU cells (requires WandB API key)
   - [Downy](https://www.twitter.com/tooltrackers) added quadruplicated Basic Settings with three additional configs by default
   - [Downy](https://www.twitter.com/tooltrackers) added added cell to send SMS on completion (works 1x/week)
@@ -35,6 +35,7 @@ A Colab notebook implementing changes specific to the creation of Sacred AI Art 
   - [Downy](https://www.twitter.com/tooltrackers) added added init image toggle for cut schedule, init image and config skip options for 2nd and later cells
   - [Downy](https://www.twitter.com/tooltrackers) added added partial or full CLIP prompts dropdown
   - [Downy](https://www.twitter.com/tooltrackers) added decuplicated Basic Settings to implement Deka-Batch Run Cells.
+</details>
 
 ## Latent Majesty Diffusion v1.6
 ##### Formerly known as Latent Princess Generator
