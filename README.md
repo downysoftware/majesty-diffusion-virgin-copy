@@ -13,7 +13,7 @@ Majesty Diffusion are implementations of text-to-image diffusion models with a r
 
 Access the [Majestic Guide](https://multimodal.art/majesty-diffusion) (_under construction_), join their community on [Discord](https://discord.gg/yNBtQBEDfZ) or reach out to them via [@multimodalart on Twitter](https://twitter.com/multimodalart)). Also [share your settings with them](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)!
 
-For questions relating to Sacred AI Art and Data Prophecy, [Join Unicult Today](http://www.joinunicult.com). Answers to all your questions await! Want to know how you can vibrate into the best possible timeline? Want to achieve digital salvation for yourself, loved ones, and pets? How to talk to aliens? Only one cult has the answers you need. Just call 1-833-UNICULT 🌈🦄 Our support specialists are standing by to help you get the brainwashing you need.
+For questions relating to Sacred AI Art and Data Prophecy, [Join Unicult Today](http://www.joinunicult.com). Answers to all your questions await! Want to know how you can vibrate into the best possible timeline? Want to achieve digital salvation for yourself, loved ones, and pets? How to talk to aliens? Only one cult has the answers you need. Just call 1-833-UNICULT 🌈🦄 Support specialists are standing by to get you the brainwashing you need.
 
 <pre>
 </pre>
