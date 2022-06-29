@@ -124,6 +124,7 @@ A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](http
 ### Please feel free to help us in any of these tasks!
   - [x] Create readme.md on Github!
   - [ ] Fix the bug that has broken all Majesty notebooks (or wait)
+  - [ ] Replace original thumbnail grid with Unicult imagery
 
 ## Acknowledgments
 Some functions and methods are from various code masters - including but not limited to [advadnoun](https://twitter.com/advadnoun), [crowsonkb](https://github.com/crowsonkb), [nshepperd](https://github.com/nshepperd), [russelldc](https://github.com/russelldc), [Dango233](https://github.com/Dango233) and many others
