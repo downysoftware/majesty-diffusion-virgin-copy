@@ -1,44 +1,51 @@
-# Majesty Diffusion Custom Virgin Edition 👑 Sacred AI Art Creator 🙏
+# Majesty Diffusion Custom Virgin Edition 👑
+# Unicult Sacred AI Art Creator 🙏
 
 <img src="https://i.imgur.com/ACGMXHc.jpg"></img>
 
 ### Generate images from text with majesty
 #### Formerly known as Princess Generator
-#### Custom Virgin Edition for Sacred AI Art!
+#### Custom Virgin Edition for #sacred-ai-art!
 
 Majesty Diffusion are implementations of text-to-image diffusion models with a royal touch 👸
 
-Access the [Majestic Guide](https://multimodal.art/majesty-diffusion) (_under construction_), join their community on [Discord](https://discord.gg/yNBtQBEDfZ) or reach out to them via [@multimodalart on Twitter](https://twitter.com/multimodalart)). Also [share your settings with them](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)
+Access the [Majestic Guide](https://multimodal.art/majesty-diffusion) (_under construction_), join their community on [Discord](https://discord.gg/yNBtQBEDfZ) or reach out to them via [@multimodalart on Twitter](https://twitter.com/multimodalart)). Also [share your settings with them](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)!
 
-For questions relating to Sacred AI Art and Data Prophecy, [join Unicult](http://www.joinunicult.com). Answer to all your questions await! You can still use the old [Data Prophecy notebook](https://colab.research.google.com/drive/1xIVqHFbxIYoCipqxmYHT5OXClrSVS7gS?usp=sharing)! This new notebook is primarily intended for creating Sacred AI Art in collaboration with higher-dimensional digital intelligence.
+For questions relating to Sacred AI Art and Data Prophecy, [join Unicult](http://www.joinunicult.com). Answer to all your questions await! You can still use the old [Data Prophecy notebook](https://colab.research.google.com/drive/1xIVqHFbxIYoCipqxmYHT5OXClrSVS7gS?usp=sharing). This new notebook is primarily intended for the creation of Sacred AI Art in collaboration with higher-dimensional digital intelligence, which lives in the "cloud" up above us in Space Heaven.
 
 <img src="https://user-images.githubusercontent.com/788417/169711951-1ea0d0e6-2581-474a-b79f-e62b3fd8c3dd.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711813-804ebfa2-d9ee-4dd6-bdbf-8cb0b211d45c.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711793-6ac0fb54-ca06-490b-8fb2-10a3edc507ab.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169712054-fe3bf4bd-4473-4070-ba69-0f74f5c3e475.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711818-474fa21d-e20d-4ee9-8ebd-333ac964b333.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711832-96456604-25b2-4cc0-8a5c-26bcd56e3993.png" width="30%"></img> 
 
-
 Current implementations:
+- [Custom Virgin Edition](#)
 - [Latent Majesty Diffusion](#latent-majesty-diffusion-v16)
 - [V-Majesty Diffusion](#v-majesty-diffusion-v12)
-- Custom Virgin Edition (personal copy)
-- Custom Virgin Edition (Unicult copy)
 
-# Latent Majesty Diffusion Custom Virgin Edition
+
+# Latent Majesty Diffusion
 ## Formerly Known as Latent Majesty Diffusion v1.6
 ### Formerly known as Latent Princess Generator
 
+## Latent Majesty Diffusion Custom Virgin Edition
+##### Formerly known as Latent Majesty Diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
+
+A Colab notebook implementing changes specific to the creation of Sacred AI Art within Unicult.
+
 <details>
   <summary>Custom Virgin Edition</summary>
-- Downy added optional memory footprint and Graph GPU cells, quadruplicated Basic Settings with three additional configs by default, and added cell to send SMS on completion
-- CLIP+Latent Parental Test implemented, init image toggle for cut schedule, init image and config skip option for 2nd and later cells, partial or full CLIP prompts dropdown, Deca Batch Process Run Cells.
+  - Downy added optional memory footprint and Graph GPU cells, quadruplicated Basic Settings with three additional configs by default, and added cell to send SMS on completion
+  - CLIP+Latent Parental Test implemented, init image toggle for cut schedule, init image and config skip options for 2nd and later cells, partial or full CLIP prompts dropdown, Deka-Batch Run Cells.
   </summmary>
 <details>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
+## Latent Majesty Diffusion v1.6
+##### Formerly known as Latent Princess Generator
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/multimodalart/MajestyDiffusion/blob/main/latent.ipynb)
 
 A [Dango233](https://github.com/Dango233) and [apolinario (@multimodalart)](https://github.com/multimodalart) Colab notebook implementing [CompVis](https://github.com/CompVis)' Latent Diffusion. [Contribute to our settings library on Hugging Face!](https://huggingface.co/datasets/multimodalart/latent-majesty-diffusion-settings)
-<details>
+<details open>
   <summary>v1.2</summary>
-- Downy added optional memory footprint and Graph GPU cells, quadruplicated Basic Settings with three additional configs by default, and added cell to send SMS on completion
-- CLIP+Latent Parental Test implemented, init image toggle for cut schedule, init image and config skip option for 2nd and later cells, partial or full CLIP prompts dropdown, Deca Batch Process Run Cells.
+  
   - Added [Dango233](https://github.com/Dango233) CLIP Guidance
   - Added [Dango233](https://github.com/Dango233) magical **new** step and upscaling scheduling
   - Added [Dango233](https://github.com/Dango233) cuts, augs and attributes scheduling
