@@ -1,5 +1,5 @@
 # Majesty Diffusion Custom Virgin Edition 👑
-## Unicult Sacred AI Art Creator 🙏
+### Unicult Sacred AI Art Creator 🙏
 
 <img src="https://i.imgur.com/ACGMXHc.jpg"></img>
 
