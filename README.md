@@ -26,8 +26,9 @@ Current implementations:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
 
 A Colab notebook implementing changes specific to the creation of Sacred AI Art within Unicult.
+<details open>
   <summary>Updates History</summary>
-<details open>  
+
   - [Downy](https://www.twitter.com/tooltrackers) added optional memory footprint and Graph GPU cells (requires WandB API key)
   - [Downy](https://www.twitter.com/tooltrackers) added quadruplicated Basic Settings with three additional configs by default
   - [Downy](https://www.twitter.com/tooltrackers) added added cell to send SMS on completion (works 1x/week)
