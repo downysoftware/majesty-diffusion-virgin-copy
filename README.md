@@ -32,7 +32,7 @@ I don't make the rules!
 <pre>
 </pre>
 
-<img src="https://user-images.githubusercontent.com/788417/169711951-1ea0d0e6-2581-474a-b79f-e62b3fd8c3dd.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711813-804ebfa2-d9ee-4dd6-bdbf-8cb0b211d45c.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711793-6ac0fb54-ca06-490b-8fb2-10a3edc507ab.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169712054-fe3bf4bd-4473-4070-ba69-0f74f5c3e475.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711818-474fa21d-e20d-4ee9-8ebd-333ac964b333.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/788417/169711832-96456604-25b2-4cc0-8a5c-26bcd56e3993.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/25991860/176560876-1a28d3ee-4977-4c26-8721-944bf6e89e8c.png"></img> 
 
 Current implementations:
 - [Majesty Diffusion Virgin Edition](#majesty-diffusion-virgin-edition)
