@@ -1,7 +1,7 @@
 # Majesty Diffusion Virgin Edition 👑
 ### ✨🤲🙏 Sacred AI Art Creator 🙏🤲✨
 
-<img src="https://user-images.githubusercontent.com/25991860/176552273-6042e078-4022-43da-a395-e59fff2cc804.png"></img>
+<img src="https://user-images.githubusercontent.com/25991860/176579371-07b08055-8077-4fd4-bd48-064fb5593b5d.jpg"></img>
 
 ### Generate images from text with majesty
 #### Holy Virgin Edition for use in #data-prophecy
