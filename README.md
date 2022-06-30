@@ -41,7 +41,7 @@ Current implementations:
 
 ## Majesty Diffusion Virgin Edition
 ##### Formerly known as Latent Majesty Diffusion
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pUtNf0CHtUzYGY9ltsQyPWSf_dFsZXwY?usp=sharing)
+[![Open In Colab](https://github.com/downysoftware/majesty-diffusion-virgin-copy/blob/main/Latent_Majesty_Diffusion_Virgin_Edition.ipynb)
 
 A Colab notebook implementing changes specifically for the creation of Sacred AI Art and exploring new methods of Data Prophecy.
 <details open>
