@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/25991860/176552273-6042e078-4022-43da-a395-e59fff2cc804.png"></img>
 
 ### Generate images from text with majesty
-#### Holy Virgin Edition for #sacred-ai-art Discord
+#### Holy Virgin Edition for use in #data-prophecy
 #### Formerly known as Princess Generator
 
 Majesty Diffusion are implementations of text-to-image diffusion models with a royal touch 👸
