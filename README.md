@@ -34,6 +34,8 @@ I don't make the rules!
 
 <img src="https://user-images.githubusercontent.com/25991860/176560876-1a28d3ee-4977-4c26-8721-944bf6e89e8c.png"></img> 
 
+<img src="https://user-images.githubusercontent.com/25991860/176767853-e4a4848e-0cf6-468a-a2ef-37beec7852fe.png"></img>
+
 Current implementations:
 - [Majesty Diffusion Virgin Edition](#majesty-diffusion-virgin-edition)
 - [Latent Majesty Diffusion](#latent-majesty-diffusion-v16)
