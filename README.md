@@ -57,7 +57,9 @@ A Colab notebook implementing changes specifically for the creation of Sacred AI
   - [Downy](https://www.twitter.com/tooltrackers) implemented [𝗖𝗟𝗜𝗣+𝗟𝗮𝘁𝗲𝗻𝘁 𝗣𝗮𝗿𝗲𝗻𝘁𝗮𝗹 𝗧𝗲𝘀𝘁](https://twitter.com/ToolTrackers/status/1541651929167810565)
   - [Downy](https://www.twitter.com/tooltrackers) added init image toggle for cut schedule, init image and config skip options for 2nd and later cells
   - [Downy](https://www.twitter.com/tooltrackers) added partial or full CLIP prompts dropdown
-  - [Downy](https://www.twitter.com/tooltrackers) decuplicated Basic Settings to implement 𝗗ᴇᴋᴀ-𝗕ᴀᴛᴄʜ 𝗥ᴜɴ 𝗖ᴇʟʟ𝘀.
+  - [Downy](https://www.twitter.com/tooltrackers) decuplicated Basic Settings to implement 𝗗ᴇᴋᴀ-𝗕ᴀᴛᴄʜ 𝗥ᴜɴ 𝗖ᴇʟʟ𝘀
+  - [Downy](https://www.twitter.com/tooltrackers) added remote URL init_image to each DBRC cluster
+  - [Downy](https://www.twitter.com/tooltrackers) enhanced Prompts cell with image_prompts dropdown menu
 </details>
 
 ## Latent Majesty Diffusion v1.6
